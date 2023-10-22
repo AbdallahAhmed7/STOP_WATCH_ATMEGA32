@@ -12,8 +12,8 @@ Here are some key features:
 
  This project is implemented using External Interrupts: 
 
-1️- INT0 : Reset the stopwatch time with a falling edge, using a push button with an internal pull-up resistor.
+1️- INT0 : Reset the stopwatch, using a push button with an internal pull-up resistor.
 
-2️- INT1 : Pause the stopwatch time with a rising edge, using a push button with an external pull-down resistor.
+2️- INT1 : Pause the stopwatch, using a push button with an external pull-down resistor.
 
-3️- INT2 : Resume the stopwatch time with a falling edge, using a push button with an internal pull-up resistor.
+3️- INT2 : Resume the stopwatch, using a push button with an internal pull-up resistor.
