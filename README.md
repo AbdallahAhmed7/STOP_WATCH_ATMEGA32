@@ -1,6 +1,6 @@
 # STOP_WATCH_ATMEGA32
 
-a Stop Watch system using an ATmega32 microcontroller, six Common Anode 7-segment displays with a 7447 decoder and three push buttons.
+Stop Watch project using an ATmega32 microcontroller, six Common Anode 7-segment displays with a 7447 decoder and three push buttons.
 Here are some key features:
 
 - Timer1 in CTC mode: Timer1 to accurately count time intervals.
